@@ -5,6 +5,7 @@
     <img src="img/image-2.jpg" alt="Alt">
     <img src="img/image-3.jpg" alt="Alt">
 </span>
+$(".thumb-item").brazzersCarousel();
 
 /*!
  * jQuery Brazzers Carousel v1.0.0 (http://webdesign-master.ru)
