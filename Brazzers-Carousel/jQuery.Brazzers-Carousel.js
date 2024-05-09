@@ -1,3 +1,4 @@
+</body><script src="js/jQuery.js"></script>
 /*!
  * jQuery Brazzers Carousel v1.0.0 (http://webdesign-master.ru)
  * Copyright 2015 WebDesign Master.
