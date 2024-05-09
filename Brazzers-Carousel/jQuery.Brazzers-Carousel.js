@@ -1,4 +1,11 @@
 </body><script src="js/jQuery.js"></script>
+	<script src="js/jQuery.Brazzers-Carousel.min.js"></script>;
+	<span class="thumb-item">
+    <img src="img/image-1.jpg" alt="Alt">
+    <img src="img/image-2.jpg" alt="Alt">
+    <img src="img/image-3.jpg" alt="Alt">
+</span>
+
 /*!
  * jQuery Brazzers Carousel v1.0.0 (http://webdesign-master.ru)
  * Copyright 2015 WebDesign Master.
